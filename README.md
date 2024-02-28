@@ -1,4 +1,4 @@
-# endorsments
+# Endorsments
 DEMO
 https://endorsments-kevin120202.netlify.app/
 
